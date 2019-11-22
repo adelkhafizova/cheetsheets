@@ -1,0 +1,8 @@
+# Gather disk space usage statistics without root access
+du -sh /root/* 2>/dev/null
+
+# Interactive tool for gathering disk space statistics per folder
+ncdu
+
+# Show global memory usage
+df

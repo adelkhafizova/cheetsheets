@@ -1,0 +1,5 @@
+# Resolve domain names (helped me once when apt-get update failed to find out that DNS server
+# stopped answering
+nslookup google.com
+
+# 

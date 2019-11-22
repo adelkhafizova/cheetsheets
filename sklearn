@@ -1,0 +1,8 @@
+# Meta-transformer for selecting features based on importance weights
+SelectFromModel
+
+
+Pipeline
+
+from sklearn.multiclass import OneVsRestClassifier
+
